@@ -40,5 +40,6 @@ System.out.println("Перегруз на "+overload+" кг!");
         var productIn1car=productsweight/2;
         System.out.println("Количество продуктов на каждую машину "+productIn1car+" кг");
 
+
     }
 }
