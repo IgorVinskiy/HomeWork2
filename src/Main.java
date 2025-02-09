@@ -43,7 +43,6 @@ public class Main {
         var differenceMass=massBoxer1-massBoxer2;
         System.out.println("Разница между боксерами "+differenceMass+ "кг" );
         var remainsMass=massBoxer2%massBoxer1;
-        System.out.println("Остаток "+remainsMass);
-
+        System.out.println("Остаток "+remainsMass);}
     }
 }
